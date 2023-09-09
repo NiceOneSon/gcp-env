@@ -51,9 +51,6 @@ local "location" {
       }
     }
   }
-  EU = {
-    name = "US"
-  }
 }
 
 output "env" {
