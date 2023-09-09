@@ -3,7 +3,7 @@ local "dev" {
   proejct      = "terraform-on-gcp-39710"
   project_name = "terraform-on-gcp"
   location     = local.location
-  ASIA         = local.location.ASIA 
+  ASIA         = local.location.ASIA
   US           = local.location.US
 }
 
@@ -50,6 +50,9 @@ local "location" {
         ]
       }
     }
+  }
+  EU = {
+
   }
 }
 
