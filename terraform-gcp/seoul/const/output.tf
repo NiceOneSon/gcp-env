@@ -52,7 +52,7 @@ local "location" {
     }
   }
   EU = {
-
+    name = "US"
   }
 }
 
